@@ -1,0 +1,482 @@
+[
+    {
+        "body": {
+            "banner_id": 14,
+            "clicked_at": 1522936841,
+            "ip_addr": "252.118.217.138",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "discount",
+                "cpc"
+            ]
+        },
+        "id": 1,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 19,
+            "clicked_at": 1535195272,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-4.com",
+            "utm_params": [
+                "facebook",
+                "promo",
+                "google"
+            ]
+        },
+        "id": 2,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 21,
+            "clicked_at": 1556547965,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "facebook",
+                "discount",
+                "email",
+                "yandex",
+                "promo",
+                "sale"
+            ]
+        },
+        "id": 3,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 19,
+            "clicked_at": 1540472579,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-4.com",
+            "utm_params": [
+                "cpc",
+                "google",
+                "discount",
+                "facebook"
+            ]
+        },
+        "id": 4,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 7,
+            "clicked_at": 1531855095,
+            "ip_addr": "28.96.185.231",
+            "url": "https://example-domain-3.com",
+            "utm_params": [
+                "cpc",
+                "yandex",
+                "facebook",
+                "banner",
+                "sale"
+            ]
+        },
+        "id": 5,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 17,
+            "clicked_at": 1548477109,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-5.com",
+            "utm_params": [
+                "email",
+                "discount",
+                "banner",
+                "facebook",
+                "vk",
+                "promo",
+                "article",
+                "google"
+            ]
+        },
+        "id": 6,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 16,
+            "clicked_at": 1550584945,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "banner",
+                "discount",
+                "sale",
+                "cpc",
+                "promo",
+                "google",
+                "vk",
+                "article",
+                "email"
+            ]
+        },
+        "id": 7,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 19,
+            "clicked_at": 1517806328,
+            "ip_addr": "59.219.7.137",
+            "url": "https://example-domain-3.com",
+            "utm_params": [
+                "email",
+                "article",
+                "yandex",
+                "banner"
+            ]
+        },
+        "id": 8,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 15,
+            "clicked_at": 1565757307,
+            "ip_addr": "252.118.217.138",
+            "url": "https://example-domain-3.com",
+            "utm_params": [
+                "vk",
+                "banner",
+                "promo",
+                "article",
+                "cpc",
+                "facebook",
+                "sale",
+                "discount"
+            ]
+        },
+        "id": 9,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 11,
+            "clicked_at": 1559551125,
+            "ip_addr": "28.96.185.231",
+            "url": "https://example-domain-4.com",
+            "utm_params": [
+                "discount",
+                "facebook",
+                "yandex",
+                "promo",
+                "sale",
+                "cpc",
+                "google"
+            ]
+        },
+        "id": 10,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 2,
+            "clicked_at": 1535538714,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-3.com",
+            "utm_params": [
+                "email",
+                "yandex",
+                "article"
+            ]
+        },
+        "id": 11,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 22,
+            "clicked_at": 1553190289,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-1.com",
+            "utm_params": [
+                "banner",
+                "vk",
+                "cpc",
+                "email",
+                "yandex",
+                "facebook",
+                "promo"
+            ]
+        },
+        "id": 12,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 8,
+            "clicked_at": 1529661421,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-3.com",
+            "utm_params": [
+                "facebook",
+                "google"
+            ]
+        },
+        "id": 13,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 18,
+            "clicked_at": 1522994129,
+            "ip_addr": "28.96.185.231",
+            "url": "https://example-domain-3.com",
+            "utm_params": []
+        },
+        "id": 14,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 24,
+            "clicked_at": 1518034894,
+            "ip_addr": "28.96.185.231",
+            "url": "https://example-domain-3.com",
+            "utm_params": [
+                "cpc",
+                "sale",
+                "discount",
+                "vk",
+                "article"
+            ]
+        },
+        "id": 15,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 22,
+            "clicked_at": 1562357699,
+            "ip_addr": "252.118.217.138",
+            "url": "https://example-domain-4.com",
+            "utm_params": [
+                "google",
+                "sale"
+            ]
+        },
+        "id": 16,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 12,
+            "clicked_at": 1538047466,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-5.com",
+            "utm_params": [
+                "banner",
+                "email",
+                "promo",
+                "vk",
+                "facebook",
+                "yandex",
+                "discount"
+            ]
+        },
+        "id": 17,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 25,
+            "clicked_at": 1554867698,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "yandex",
+                "article",
+                "email",
+                "banner",
+                "vk",
+                "sale"
+            ]
+        },
+        "id": 18,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 18,
+            "clicked_at": 1544756668,
+            "ip_addr": "59.219.7.137",
+            "url": "https://example-domain-1.com",
+            "utm_params": [
+                "banner"
+            ]
+        },
+        "id": 19,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 26,
+            "clicked_at": 1555539230,
+            "ip_addr": "59.219.7.137",
+            "url": "https://example-domain-4.com",
+            "utm_params": [
+                "discount",
+                "email"
+            ]
+        },
+        "id": 20,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 20,
+            "clicked_at": 1529309424,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-3.com",
+            "utm_params": [
+                "article",
+                "google"
+            ]
+        },
+        "id": 21,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 30,
+            "clicked_at": 1554530119,
+            "ip_addr": "28.96.185.231",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "banner",
+                "promo",
+                "vk",
+                "discount"
+            ]
+        },
+        "id": 22,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 4,
+            "clicked_at": 1552857123,
+            "ip_addr": "28.96.185.231",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "sale"
+            ]
+        },
+        "id": 23,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 28,
+            "clicked_at": 1572286588,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-3.com",
+            "utm_params": []
+        },
+        "id": 24,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 22,
+            "clicked_at": 1569468366,
+            "ip_addr": "28.96.185.231",
+            "url": "https://example-domain-4.com",
+            "utm_params": []
+        },
+        "id": 25,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 4,
+            "clicked_at": 1571163938,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-5.com",
+            "utm_params": [
+                "article",
+                "facebook",
+                "cpc",
+                "banner",
+                "discount",
+                "sale",
+                "vk",
+                "promo"
+            ]
+        },
+        "id": 26,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 15,
+            "clicked_at": 1537267014,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "facebook",
+                "article",
+                "email",
+                "cpc",
+                "banner",
+                "vk",
+                "yandex",
+                "promo",
+                "discount",
+                "google"
+            ]
+        },
+        "id": 27,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 29,
+            "clicked_at": 1562774525,
+            "ip_addr": "252.118.217.138",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "facebook"
+            ]
+        },
+        "id": 28,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 22,
+            "clicked_at": 1552723733,
+            "ip_addr": "27.14.123.65",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "email",
+                "article"
+            ]
+        },
+        "id": 29,
+        "index": "clicks"
+    },
+    {
+        "body": {
+            "banner_id": 12,
+            "clicked_at": 1551352922,
+            "ip_addr": "127.167.1.216",
+            "url": "https://example-domain-2.com",
+            "utm_params": [
+                "cpc",
+                "discount",
+                "promo",
+                "google"
+            ]
+        },
+        "id": 30,
+        "index": "clicks"
+    }
+]
