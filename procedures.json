@@ -1,0 +1,242 @@
+[
+    {
+        "body": {
+            "cost": 1500,
+            "procedure_info": "Грязевые ванны. Продолжительность - 24 часа, после перерыва - ещё 12 часов. До полного выздоровления"
+        },
+        "id": 1,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Хоровое пение и медитации. Разово."
+        },
+        "id": 2,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 500,
+            "procedure_info": "Прогревание у костра. По самочувствию."
+        },
+        "id": 3,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Микстура \"каркаде богов\", 0.3 - 0.5л. По самочувствию."
+        },
+        "id": 4,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1500,
+            "procedure_info": "Бороплюс животворящий, местно. По самочувствию."
+        },
+        "id": 5,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 500,
+            "procedure_info": "Тигровый бальзам. Еженедельно."
+        },
+        "id": 6,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 700,
+            "procedure_info": "Воздушные ванны. По самочувствию."
+        },
+        "id": 7,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 500,
+            "procedure_info": "Прослушивание расслабляющего пения птиц. Еженедельно."
+        },
+        "id": 8,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1500,
+            "procedure_info": "Прогревание организма изнутри. Еженедельно."
+        },
+        "id": 9,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 700,
+            "procedure_info": "Сенсорная депривация путём погружения в спальный мешок. Ежедневно."
+        },
+        "id": 10,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1000,
+            "procedure_info": "Ингаляции дымом костра. По самочувствию."
+        },
+        "id": 11,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1000,
+            "procedure_info": "Ароматерапия запахом осенней листвы. По самочувствию."
+        },
+        "id": 12,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Солнечные ванны. Еженедельно."
+        },
+        "id": 13,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1000,
+            "procedure_info": "Болотные ванны. Ежедневно."
+        },
+        "id": 14,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Дождевые ванны. Два раза в день."
+        },
+        "id": 15,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 200,
+            "procedure_info": "Шоковая адреналинотерапия: убегание от стада кабанчиков. Два раза в день."
+        },
+        "id": 16,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1000,
+            "procedure_info": "Тейпирование всего организма. До полного выздоровления"
+        },
+        "id": 17,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 200,
+            "procedure_info": "Спортивная ходьба с подволакиванием обеих ног. По самочувствию."
+        },
+        "id": 18,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 700,
+            "procedure_info": "Тренировка слуха путём угадывания расположения станции на КП по характерному писку. До полного выздоровления"
+        },
+        "id": 19,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 500,
+            "procedure_info": "Тренировка зрения путём разглядывания звёздЕженедельно."
+        },
+        "id": 20,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1500,
+            "procedure_info": "Распаривание ног. Два раза в день."
+        },
+        "id": 21,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1500,
+            "procedure_info": "Болотно-грязевые компрессы. Разово."
+        },
+        "id": 22,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Укрепляющие заплывы через ручьи. Два раза в день."
+        },
+        "id": 23,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1500,
+            "procedure_info": "Развитие мелкой моторики путём сбора ягод на дистанции. По самочувствию."
+        },
+        "id": 24,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 500,
+            "procedure_info": "Диетический стол: гречка с тушёнкой. Два раза в день."
+        },
+        "id": 25,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Выпрямление позвоночника: сон на земле с подложенной пенкой. По самочувствию."
+        },
+        "id": 26,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 700,
+            "procedure_info": "Восстановление режима дня: подъём в 6 утра. Два раза в день."
+        },
+        "id": 27,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 500,
+            "procedure_info": "Неспешная вечерная пробежка на 70 км. Ежедневно."
+        },
+        "id": 28,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Цветотерапия цветущей медуницей. По самочувствию."
+        },
+        "id": 29,
+        "index": "procedures"
+    },
+    {
+        "body": {
+            "cost": 1200,
+            "procedure_info": "Лечебный сон в электричке в течение 2 часов. Еженедельно."
+        },
+        "id": 30,
+        "index": "procedures"
+    }
+]
